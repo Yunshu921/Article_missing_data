@@ -1,5 +1,5 @@
 ---
-title: "Definition of missing data and approaches to do about it"
+title: "Definition of missing data and methods to do about it"
 author: "Yunshu Zhang"
 format: pdf
 editor: visual
