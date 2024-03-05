@@ -11,9 +11,6 @@ toc: TRUE
 bibliography: references.bib
 ---
 
-
-
-
 # Introduction
 When we prepare to do the statistic analysis, usually we need to clean our data at first. One of most important process is to eliminate the bias of the data. In particular, missing data may cause biased estimates. In this article, I want to talk about the the definition of missing data and how to deal with it under different conditions.
 
