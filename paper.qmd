@@ -3,7 +3,7 @@ title: "Definition of missing data and approaches to do about it"
 author: "Yunshu Zhang"
 format: pdf
 editor: visual
-thanks: "Code and data are available at: https://github.com/Yunshu921/Article_missing_data.git"
+thanks: "Code and data are available at: https://github.com/Yunshu921/Article_missing_data.git."
 date: today
 date-format: long
 number-sections: true
